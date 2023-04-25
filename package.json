@@ -1,0 +1,23 @@
+{
+  "name": "storybook-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-storybook": "build-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamano-h/storybook-playground.git"
+  },
+  "author": "Hidenori Yamano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yamano-h/storybook-playground/issues"
+  },
+  "homepage": "https://github.com/yamano-h/storybook-playground#readme",
+  "devDependencies": {
+    "chromatic": "^6.17.3"
+  }
+}
